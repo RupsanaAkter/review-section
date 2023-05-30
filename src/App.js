@@ -10,7 +10,9 @@ function App() {
      
      <Review></Review>
      <Rating></Rating>
-     <Heading></Heading>
+     <Heading>
+      
+     </Heading>
     </div>
   );
 }
